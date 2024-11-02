@@ -41,8 +41,8 @@
         "CJ.BuildHub.Guidelines.Licensing.Body": "Credit yourself. People want to know what you've made!\r\n\r\nUse <i>CC-0(Public Domain)</i> or <i>CC-BY(Attribution)</i> license assets.\r\n\r\nAll Creations in Creator Jam will be licensed at the end of the jam as:",
         "CJ.BuildHub.Guidelines.Licensing.Subheading": "<i>Creative Commons CC-BY 4.0 license (Attribution)</i>",
         "CJ.BuildHub.Guidelines.Precautions.Header": "<b>Precautions:</b>",
-        "CJ.BuildHub.Guidelines.Precautions.Body": "Use caution when importing assets. Assets with a large polygon count can cause performance issues.\r\n\r\n1-5000 polygon count is recommended.\r\n\r\n5000-50,000 polygon count is ok but use caution when using many assets with larger polygon counts.\r\n\r\nLarge file size may cause slow loading times for the user and possibly cause performance\r\nissues.",
+        "CJ.BuildHub.Guidelines.Precautions.Body": "Use caution when importing assets. Assets with a large polygon count can cause performance issues.\r\n\r\n1-5000 polygon count is recommended.\r\n\r\n5000-50,000 polygon count is ok but use caution when using many assets with larger polygon counts.\r\n\r\nLarge file sizes may cause slow loading times for the user and possibly cause performance\r\nissues.",
         "CJ.BuildHub.Guidelines.Misc.Header": "Miscellaneous:",
-        "CJ.BuildHub.Guidelines.Misc.Body": "Save your work in the inventory often.\r\n\r\nClean up any mess you make.\r\n\r\nAsk for permission when interacting with someone's unfinished work.\r\nDo not clean up other people’s areas unless specifically asked.\r\n<br><br>"
+        "CJ.BuildHub.Guidelines.Misc.Body": "Save your work in the inventory often.\r\n\r\nClean up any messes you make.\r\n\r\nAsk for permission when interacting with someone's unfinished work.\r\nDo not clean up other people’s areas unless specifically asked.\r\n<br><br>"
     }
 }
